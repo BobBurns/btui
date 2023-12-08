@@ -1,0 +1,8 @@
+btui
+====
+
+Simple terminal app to manage FreeBSD jails built with bastille and pterm.
+
+Requires FreeBSD, bastille, go, doas
+
+tap interfaces must be preconfigured

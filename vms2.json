@@ -1,0 +1,44 @@
+{
+    "servers": [
+      {
+        "ipaddr": "10.10.0.1",
+        "iface": "tap0",
+        "available": "no",
+        "running": "yes",
+        "name": "sccounty",
+        "type": "sssd-dev"
+      },
+      {
+        "ipaddr": "10.10.0.2",
+        "iface": "tap1",
+        "available": "no",
+        "running": "yes",
+        "name": "arcturus-gdev",
+        "type": "go-dev"
+      },
+      {
+        "ipaddr": "10.10.0.3",
+        "iface": "tap2",
+        "available": "no",
+        "running": "yes",
+        "name": "bobdev",
+        "type": "gdev"
+      },
+      {
+        "ipaddr": "10.10.0.4",
+        "iface": "tap3",
+        "available": "yes",
+        "running": "no",
+        "name": "none",
+        "type": "none"
+      },
+      {
+        "ipaddr": "10.10.0.5",
+        "iface": "tap4",
+        "available": "yes",
+        "running": "no",
+        "name": "none",
+        "type": "none"
+      }
+    ]
+  }
